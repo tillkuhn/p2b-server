@@ -59,7 +59,7 @@
     "ngx-logger": "^5.0.12",
     "ngx-mapbox-gl": "^10",
     "ngx-markdown": "^16",
-    "ngx-webstorage": "^13.0.1",
+    "ngx-webstorage": "^18.0.0",
     "rxjs": "^7.4",
     "ts-jest": "^29.1.4",
     "tslib": "^2.6.0",

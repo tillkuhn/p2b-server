@@ -8282,10 +8282,10 @@ ngx-markdown@^16:
     mermaid "^9.1.2"
     prismjs "^1.28.0"
 
-ngx-webstorage@^13.0.1:
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/ngx-webstorage/-/ngx-webstorage-13.0.1.tgz#04de259104167a339aa59575c2c3b64983ca47f2"
-  integrity sha512-CyKAqhIAmJQbdeIK1lqQZ7uSoVLPFV0StyjkANn96I36HN/RKtNw9+l7fQTfmavnZpmZ9ctffcpsXRHPzSZvlw==
+ngx-webstorage@^18.0.0:
+  version "18.0.0"
+  resolved "https://registry.yarnpkg.com/ngx-webstorage/-/ngx-webstorage-18.0.0.tgz#90c5d4a11055a261883146818b341c22842bf051"
+  integrity sha512-Fg9y0Vb89CBSjSmJPjvotZljyqSNo97TlWpR6OIsHzuMwrj7u9OgEBmqOgiRK2GGsUdVMy8SF3s3Ymier6xuew==
   dependencies:
     tslib "^2.0.0"
 
