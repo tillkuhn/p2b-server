@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.23.1
 
 require (
-	github.com/IBM/sarama v1.43.3
+	github.com/IBM/sarama v1.45.0
 	github.com/cdfmlr/ellipsis v0.0.1
 	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/dustin/go-humanize v1.0.1
@@ -50,9 +50,9 @@ require (
 	github.com/xdg/stringprep v1.0.3 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
-	golang.org/x/net v0.32.0 // indirect
+	golang.org/x/crypto v0.32.0 // indirect
+	golang.org/x/net v0.34.0 // indirect
 	golang.org/x/oauth2 v0.24.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
